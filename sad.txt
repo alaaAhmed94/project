@@ -1,3 +1,0 @@
-git remote add origin https://github.com/alaaAhmed94/E-commerce.git
-git branch -M master
-[git push --all] or [git push -u origin master] 
